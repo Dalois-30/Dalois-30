@@ -49,10 +49,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.daltek.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/nguenang-tapi-claude-dalois/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/claudetapi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:daloisnguenang@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.daltek.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.daltek.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/nguenang-tapi-claude-dalois/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ClaudeNguenang_Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/claudetapi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-claudetapi-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:daloisnguenang@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-daloisnguenang@yahoo.com?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Dalois](https://github.com/Dalois-30)
