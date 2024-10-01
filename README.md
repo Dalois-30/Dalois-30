@@ -1,43 +1,52 @@
 
-
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey there! I'm Dalois.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🔗 &nbsp; Passionate about blockchain technology and decentralized applications.
+- 💻 &nbsp; Experienced in developing smart contracts and blockchain-based solutions.
+- 🤔 &nbsp; Constantly exploring new technologies and enhancing my TypeScript and Solidity skills.
 - 🎓 &nbsp; Studying Computer Science and Mathematics.
-- 💼 &nbsp; Working as a Business Development Associate, software developper.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Blockchain, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles.
+- 💼 &nbsp; Working as a Blockchain Developer and Business Development Associate.
+- 🌱 &nbsp; Deepening my knowledge in **Ethereum**, **Layer 2 solutions**, **DeFi**, and **Web3** with a focus on **TypeScript**.
+- ✍️ &nbsp; Sharing insights on blockchain development through blogs and open-source contributions.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Solidity](https://img.shields.io/badge/-solidity-333333?style=flat&logo=solidity)
+
 - 🌐 &nbsp;
-  ![Angular](https://img.shields.io/badge/-angular-333333?style=flat&logo=angular)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  
+
+- 🔗 &nbsp;
+  ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
+  ![Hardhat](https://img.shields.io/badge/-Hardhat-333333?style=flat&logo=hardhat)
+  ![Web3.js](https://img.shields.io/badge/-Web3.js-333333?style=flat&logo=web3.js)
+  ![Ethers.js](https://img.shields.io/badge/-Ethers.js-333333?style=flat&logo=ethers.js)
+
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Anaconda](https://img.shields.io/badge/-anaconda-333333?style=flat&logo=anaconda)
-  ![Pycharm](https://img.shields.io/badge/-pycharm-333333?style=flat&logo=pycharm)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Hardhat](https://img.shields.io/badge/-Hardhat-333333?style=flat&logo=hardhat)
+  ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)
 
 <br/>
 
