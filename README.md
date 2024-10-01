@@ -43,7 +43,6 @@
 
 <a href="https://github.com/Dalois-30">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dalois-30&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalois-30&theme=buefy&layout=compact&cache_seconds=1800" />
 </a>
 
 <br/>
